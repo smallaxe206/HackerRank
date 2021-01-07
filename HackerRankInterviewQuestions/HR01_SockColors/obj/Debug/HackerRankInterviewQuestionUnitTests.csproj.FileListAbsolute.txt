@@ -1,0 +1,14 @@
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\bin\Debug\HR01_SockColors.dll
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\bin\Debug\HR01_SockColors.pdb
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\obj\Debug\HackerRankInterviewQuestionUnitTests.csprojAssemblyReference.cache
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\obj\Debug\HackerRankInterviewQuestionUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\obj\Debug\HackerRankInterviewQuestionUnitTests.csproj.CopyComplete
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\obj\Debug\HR01_SockColors.dll
+C:\Users\small\Source\Repos\HackerRank\HackerRankInterviewQuestions\HR01_SockColors\obj\Debug\HR01_SockColors.pdb

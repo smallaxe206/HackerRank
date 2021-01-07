@@ -13,10 +13,10 @@ using System.Text.RegularExpressions;
 using System.Text;
 using System;
 
-namespace HR01_SockColors
+namespace HackerRankInterviewQuestionUnitTests
 {
     [TestClass]
-    public class UnitTest1
+    public class HR01
     {
         [TestMethod]
         public void NineSocksWith3Matches()
