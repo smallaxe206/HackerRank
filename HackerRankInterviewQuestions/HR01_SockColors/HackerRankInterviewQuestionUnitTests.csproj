@@ -49,6 +49,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HR03_Clouds2.cs" />
     <Compile Include="HR02_Valleys.cs" />
     <Compile Include="HR01.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
